@@ -11,8 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "jasmine": "^3.8.0",
-    "sharp": "^0.28.3","
-    "eslint": "eslint"
+    "sharp": "^0.28.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
