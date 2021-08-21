@@ -45,7 +45,7 @@ describe('testing endpoints', () => {
             )
         })
     })
-    // testing the imageprocess Function
+    // testing the imageProcess Function
     describe('pass all the tests for the image process function ', () => {
         it('should return a wrong message if the file name is not accessable', async () => {
             const res = await imageProcess('abdelrahman', 200, 200)
